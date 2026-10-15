@@ -15,6 +15,7 @@ const App = () => {
         <option value="pakistan">Pakistan</option>
         <option value="usa">USA</option>
         <option value="uk">UK</option>
+        <option value="canada">canada</option>
       </select>
 
       <p>Selected country: {country}</p>
